@@ -6,7 +6,7 @@ let searchInput = document.getElementById('search');
 searchInput.addEventListener('keyup', myFunction);
 
 function myFunction() {
-     searchLower = searchInput.value.toLowerCase();
+     let searchLower = searchInput.value.toLowerCase();
      const link = document.querySelectorAll('a');
    
 

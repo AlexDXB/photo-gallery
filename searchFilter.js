@@ -1,4 +1,3 @@
-
 /**
  * searchFilter.js
  * 
