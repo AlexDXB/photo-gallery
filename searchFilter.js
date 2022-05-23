@@ -1,3 +1,4 @@
+
 /**
  * searchFilter.js
  * 
@@ -9,6 +10,7 @@
  *  Add searchFilter.js into your js folder
  *  Add this line into your index.html <script src="js/searchFilter.js"></script>
  *   
+ * 
  * Utilization:
  *  Ensure that your search input is setup like this in your index.html:
  *   <input type="search" name="search" id="search" placeholder="Search">
